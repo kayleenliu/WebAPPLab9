@@ -12,7 +12,7 @@
             email: <input type="text" name="email"><br>
             password: <input type="password" name="password"><br>
             <input type="submit" value="Sign in">
-            <a href="forgot">Forget the password</a>
+            <a href="forgot">Forget password?</a>
         </form>
     </body>
 </html>
